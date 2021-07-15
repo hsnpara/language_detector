@@ -1,1 +1,0 @@
-# passd-student-detector
